@@ -21,9 +21,9 @@ This data set is organized in the following way:
 ## Photo data.
 
 * `phone_originals/`: contains originally collected photos (*.jpg, *.png).
-* `phone_cropped_display`: contains only the display area of the photos (*.png).
-* `phone_damage_annotation`: contains SVGs with manually annotated damages.
-* `phone_damage_overlays`: contains PNG overlays: damage + display photos.
+* `phone_cropped_display/`: contains only the display area of the photos (*.png).
+* `phone_damage_annotation/`: contains SVGs with manually annotated damages.
+* `phone_damage_overlays/`: contains PNG overlays: damage + display photos.
 
 
 # License
